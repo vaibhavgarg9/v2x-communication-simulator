@@ -1,0 +1,10 @@
+# Python virtual environment
+v2x_env/
+
+# Python cache
+__pycache__/
+
+# Project related
+configuration/
+keys/
+*.log
